@@ -37,8 +37,7 @@ export const SimulationsSelector: React.FC<SimulationSelectorProps> = ({ simulat
                             className={`w-56 h-[18rem] p-0
                          rounded-2xl shadow-lg text-md flex flex-col justify-between items-center
                          opacity-100 hover:opacity-80 transition-all duration-500 ease-in-out
-                         bg-gradient-to-br from-[#fdfbfb] to-[#ebedee]
-                         ${simulationIndex === currentSimulationIndex ? "bg-gradient-to-b from-[#fdfcfb] to-[#e2d1c3]" : ""}
+                         ${simulationIndex === currentSimulationIndex ? "bg-gradient-to-b from-[#fdfcfb] to-[#e2d1c3]" : "bg-gradient-to-br from-[#fdfbfb] to-[#ebedee]"}
                          `}
                         >
                         </Card>
