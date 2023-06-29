@@ -1,4 +1,4 @@
-# ERPST-Simulator
+# EPRST-Simulator
 
 Created By: Abdelrahman Abdelrahman
 
